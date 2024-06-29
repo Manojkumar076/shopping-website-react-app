@@ -1,0 +1,109 @@
+[
+  {
+    "name": "Top Offers",
+    "image": "https://www.shutterstock.com/image-vector/red-yellow-tag-best-offer-260nw-786488959.jpg",
+    "subcategories": [
+      {
+        "name": "Today's Deals",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiwFbVmZtQj7FVDOTESQZdVClE25Qc1HWQJQ&s"
+      },
+      {
+        "name": "Best Sellers",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEChIoDsowkWEQ5LU3DaqVn7JDZJ-CTzKNug&s"
+      }
+    ]
+  },
+  {
+    "name": "Mobiles",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEApOoLB_Ik6bWxB1lHJGSH-tthkyrJHioiA&s",
+    "subcategories": [
+      {
+        "name": "Smartphones",
+        "subcategories": [
+          {
+            "name": "Android",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgrkan55MtiUlcjz83rQVO10Kds63b_0JMA&s"
+          },
+          {
+            "name": "iOS",
+            "image": "https://wiki.silentdismissal.com/lib/exe/fetch.php?cache=&media=parents:ios.jpg"
+          }
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPL86p9pE7EbQX8uqtWAg-i_vFEFzxtnBfg&s"
+      }
+    ]
+  },
+  {
+    "name": "Fashion",
+    "image": "https://img.freepik.com/free-photo/woman-black-trousers-purple-blouse-laughs-leaning-stand-with-elegant-clothes-pink-background_197531-17614.jpg",
+    "subcategories": [
+      {
+        "name": "Men",
+        "subcategories": [
+          { "name": "Ethnic Wear", "image": "https://fashionsuggest.in/wp-content/uploads/2018/05/mens-ethnic-wear-guide-banner-compressed.jpg" },
+          { "name": "Western Wear", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2I18znTLkFxTAnxcVTPED3dtjITvoYhDRiQ&s" }
+        ]
+      },
+      {
+        "name": "Women",
+        "subcategories": [
+          { "name": "Ethnic Wear", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL_ok9RIU3LaGqQL2joLBKf90Dd7HgFa7oig&s" },
+          { "name": "Western Wear", "image": "https://i.pinimg.com/564x/4b/95/7a/4b957a61e0892961b0ac8dd03ad97d71.jpg" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Home",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxRQBXp4M4XU6Zrjck6-qcUouyQz_V5RTSVQ&s",
+    "subcategories": []
+  },
+  {
+    "name": "Electronics",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmO5plfjt6i57nUh4QV8HimGUp9f1FARTjcQ&s",
+    "subcategories": [
+      { "name": "Mobiles", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEApOoLB_Ik6bWxB1lHJGSH-tthkyrJHioiA&s" },
+      { "name": "Laptops", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzdXQKtpASTHJXd8ncnw5WHJ0XCPuZ9ZSmA&s" },
+      { "name": "Cameras", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCFOdwvxbO1LyJozzVjz-zn6cRpG1CDQmj3w&s" }
+    ]
+  },
+  {
+    "name": "Appliances",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsgrBDigCp7IqTpjgM5rmUs55oaPqNCQy9VA&s",
+    "subcategories": []
+  },
+  {
+    "name": "Grocery",
+    "image": "https://img.freepik.com/premium-photo/shopping-bag-full-fresh-fruits-vegetables-with-assorted-ingredients_8087-2232.jpg",
+    "subcategories": []
+  },
+  {
+    "name": "Beauty and Toys",
+    "image": "https://www.jiomart.com/images/product/original/rvlfmlu6wb/super-toy-beautiful-doll-toy-set-with-artificial-nail-art-toy-for-girls-movable-hands-legs-long-hairs-multicolor-product-images-orvlfmlu6wb-p606862965-0-202312221945.jpg?im=Resize=(1000,1000)",
+    "subcategories": [
+      {
+        "name": "Men's Grooming",
+        "image": "https://c8.alamy.com/comp/AD1X9K/mens-grooming-products-AD1X9K.jpg"
+      },
+      {
+        "name": "Food & Drinks",
+        "image": "https://st.depositphotos.com/1588534/4460/i/450/depositphotos_44608241-stock-photo-cheese-sausages-and-wine.jpg",
+        "subcategories": [
+          {
+            "name": "Beverages",
+            "image": "https://fruitprocessingmachine.com/wp-content/uploads/2020/06/header-drinks.jpg"
+          },
+          {
+            "name": "Snacks",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHaBFa7FiRkyfh-CHih30XycNALHqciQDUQ&s"
+          }
+        ]
+      },
+      {
+        "name": "Books",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9jzKNZw84mH-K18T17Kxx8Ai6sHlXl5viBQ&s"
+      }
+    ]
+  }
+  
+]
